@@ -1,0 +1,1 @@
+<p class="text-center">Copyright Trung - All Rights Reserved</p>
